@@ -1,4 +1,4 @@
-# My Protfolio
+# My Portfolio
 
 ## General info
 This is  a Single Page Application of my portfolio 
